@@ -7,7 +7,7 @@ class MainScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-        title: Text('Главная страница'),
+        title: Text('Главная страница!'),
     centerTitle: true,
     ),
       body: Column(
